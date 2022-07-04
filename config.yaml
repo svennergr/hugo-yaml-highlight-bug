@@ -1,0 +1,7 @@
+theme: ananke
+contentDir: posts
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
